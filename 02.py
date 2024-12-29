@@ -1,0 +1,1 @@
+name1,name2,name3=input("Enter 3 name: ").split(",")
